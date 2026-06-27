@@ -1,6 +1,6 @@
 # DEEP-TLS-QSM
 Official PyTorch implementation of training-free 3D quantitative susceptibility mapping using Deep Image Prior and Sparse Total Least Squares, with reproducible hyperparameters and SNU, LPCNN Datasets.
-# DIP-STLS QSM Reconstruction
+
 
 Research code for training-free three-dimensional quantitative susceptibility
 mapping (QSM) with a deep image prior (DIP) and sparse total least squares
